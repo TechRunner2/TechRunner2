@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hey there!
+- Pronouns: She/Her
+- I'm working on making games in Godot
+- I'm finishing up my last semester of College
+- How to reach me: [Telegram](https://t.me/WillowBehar)
+
 
 <!--
 **TechRunner2/TechRunner2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
